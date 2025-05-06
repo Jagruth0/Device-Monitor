@@ -11,12 +11,15 @@ Device info such as platform, architecture, uptime, etc are shown at the bottom.
 
 All this data refreshes once every 2 seconds and the line graph shows data for the last 120 seconds (60 data points).  
 
-### Pi Assistant  
+## Pi Assistant:  
 Pi Assistant helps you get data of the device which might not already be on the app's UI.  
 To use Pi Assistant;  
 - First enter your query in the text box provided then click on 'Ask' button.  
 - This generates a shell script that is apt for the given query.  
 - Now click on the 'Run script' button to display the output for the above shell script.  
+
+---
+### Web App Preview:  
 
 ![Annotation 2025-05-02 145905](https://github.com/user-attachments/assets/7c59b1b7-9cba-4b16-b214-cb6156d84aaf)  
 
