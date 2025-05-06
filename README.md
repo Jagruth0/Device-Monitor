@@ -13,9 +13,10 @@ All this data refreshes once every 2 seconds and the line graph shows data for t
 
 ### Pi Assistant  
 Pi Assistant helps you get data of the device which might not already be on the app's UI.  
-To use Pi Assistant, first enter your query in the text box provided then click on 'Ask' button.  
-This generates a shell script that is apt for the given query.  
-Now click on the 'Run script' button to display the output for the above shell script.  
+To use Pi Assistant;  
+- First enter your query in the text box provided then click on 'Ask' button.  
+- This generates a shell script that is apt for the given query.  
+- Now click on the 'Run script' button to display the output for the above shell script.  
 
 ![Annotation 2025-05-02 145905](https://github.com/user-attachments/assets/7c59b1b7-9cba-4b16-b214-cb6156d84aaf)  
 
